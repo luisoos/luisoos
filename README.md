@@ -1,4 +1,4 @@
-## Hi I'm Luis <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi I'm Luis <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <h3 align="center">A developer and Student from Germany</h3>
 
 - 🔭 I’m currently working on **my personal website**
@@ -13,13 +13,13 @@
 
 - ⚡ Fun fact: I started learning HTML when I was 9 years old
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://instagram.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="soon" height="30" width="40" /></a>
 <a href="https://discord.gg/dsc.gg/luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dsc.gg/luis" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h1 align="left">Languages and Tools I use:</h1>
 
 ## Top Languages
 
