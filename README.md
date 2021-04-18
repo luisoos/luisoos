@@ -7,16 +7,16 @@
 
 - 👯 I’m looking to collaborate on **a design element website**
 
-- 👨‍💻 All of my published projects are available at [https://GitHub.com/luisoos](https://GitHub.com/luisoos)
+- 👨‍💻 All of my published projects are available at [https://github.com/luisoos](https://GitHub.com/luisoos)
 
-- 📫 How to reach me **https://dsc.gg/luis**
+- 📫 How to reach me: (email soon) https://dsc.gg/luis
 
 - ⚡ Fun fact: I started learning HTML when I was 9 years old
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://instagram.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://discord.gg/dsc.gg/luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dsc.gg/luis" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="soon" height="30" width="40" /></a>
+<a href="https://dsc.gg/luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dsc.gg/luis" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools I use:</h1>
