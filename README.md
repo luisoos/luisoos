@@ -15,8 +15,8 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://dsc.gg/luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="dsc.gg/luis" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://img.icons8.com/fluent/344/instagram-new.png" alt="soon" height="30" width="40" /></a>
+<a href="https://dsc.gg/luis" target="blank"><img align="center" src="https://img.icons8.com/fluent/452/discord-logo.png" alt="dsc.gg/luis" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools I use:</h1>
