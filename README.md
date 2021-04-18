@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://dsc.gg/luis**
 
-- ⚡ Fun fact **I started learning HTML when I was 9 years old**
+- ⚡ Fun fact: I started learning HTML when I was 9 years old
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
