@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I am Luis! </h1>
+<h1 align="center"> Hi, I am Luis! </h1>
 <h3 align="center"> Designer, Developer and Student from Germany </h3>
 
 <p align="center"> Portfolio: <a href="http://luis.works">luis.works</a> </p>
