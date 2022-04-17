@@ -3,7 +3,7 @@
 
 <p align="center"> Portfolio: <a href="http://luis.works">luis.works</a> </p>
 
-<p align="center"> Reach me @ <a href="mailto:contact@luis.works">contact@dev-luis.de</a> </p>
+<p align="center"> Reach me @ <a href="mailto:contact@luis.works">contact@luis.works</a> </p>
 
 <h2 align="center"> ✨🌈 </h2>
 
